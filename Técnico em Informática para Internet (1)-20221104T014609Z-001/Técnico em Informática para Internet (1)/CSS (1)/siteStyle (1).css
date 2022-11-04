@@ -1,0 +1,211 @@
+body{
+    background-color: black;
+}
+
+.container{
+    background-color: black;
+    width:auto;
+    align-items: center;
+}
+
+.indice{
+    background-color: rgb(24, 24, 24);
+    padding: 1.5rem;
+    font-size: larger;
+    font-family: Arial, Helvetica, sans-serif;
+    display: flexbox;
+    text-align: center;
+}
+
+.indice-item1{
+    color: #fff;
+    padding-left: 0.5rem;
+    padding-right: 2.2rem;
+    font-weight: bold;
+    text-decoration: none;
+    
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.indice-item2{
+    color: rgb(239, 132, 255);
+    padding: 2.2rem;
+    font-weight: bold;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif ;
+
+}
+
+.indice-item3{
+    color: rgb(136, 197, 255);
+    padding: 2.2rem;
+    font-weight: bold;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.indice-item4{
+    color: rgb(136, 255, 189);
+    padding: 2.2rem;
+    font-weight: bold;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.indice-item5{
+    color: rgb(255, 248, 154);
+    padding-left: 2.2rem;
+    padding-right: 0.5rem;
+    font-weight: bold;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    
+
+}
+
+main{
+    color: white;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+.escolha{
+    align-items: center;
+}
+
+.escolha-item1{
+    padding: 1.8rem;
+}
+
+.escolha-item2{
+    padding: 1.8rem;
+}
+
+.escolha-item3{
+    padding: 1.8rem;
+}
+
+.escolha-item4{
+    padding: 1.5rem;
+}
+
+.footer{
+    background-color: rgb(24, 24, 24);
+    color: white;
+    padding: .8px;
+    font-style: normal;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.historia-SW{
+    color: rgb(239, 132, 255);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.historia-inicio{
+    color: white;
+    padding-left: 16rem;
+    padding-right: 16rem;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+
+.historia-paragrafo{
+    color: white;
+    padding-left: 6rem;
+    padding-right: 6rem;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.pers{
+    padding-left: 7rem;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.pers-bio{
+    color: white;
+    padding-left: 2rem;
+    padding-right: 10rem;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.pers-name{
+    padding-left: 2rem;
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.Valores-SW{
+    text-align: center;
+    color: rgb(239, 132, 255);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+}
+
+.valores-paragrafo{
+    color: white;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.esc-FIL{
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.Valores-HTTYD{
+    color: rgb(136, 197, 255);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.historia-HTTYD{
+    color: rgb(136, 197, 255);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.pers-HTTYD{
+    color: rgb(136, 197, 255);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.Valores-NARNIA{
+    color: rgb(136, 255, 189);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.historia-NARNIA{
+    color: rgb(136, 255, 189);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.pers-NARNIA{
+    color: rgb(136, 255, 189);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.Valores-LOTR{
+    color: rgb(255, 248, 154);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.historia-LOTR{
+    color: rgb(255, 248, 154);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+.pers-LOTR{
+    color: rgb(255, 248, 154);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.header-container{
+    width: 100%;
+}
+header img {
+    width: 100%;
+    height: 100%;
+}
+
+.fotoFAIXA > img{
+    width:100%;
+}
